@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/haui-app/static/css/main.8e2baab7.chunk.css",
+    "main.js": "/haui-app/static/js/main.02d34f74.chunk.js",
+    "main.js.map": "/haui-app/static/js/main.02d34f74.chunk.js.map",
+    "runtime-main.js": "/haui-app/static/js/runtime-main.434ee799.js",
+    "runtime-main.js.map": "/haui-app/static/js/runtime-main.434ee799.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/haui-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8230b3d2.chunk.js": "/haui-app/static/js/2.8230b3d2.chunk.js",
+    "static/js/2.8230b3d2.chunk.js.map": "/haui-app/static/js/2.8230b3d2.chunk.js.map",
+    "index.html": "/haui-app/index.html",
+    "precache-manifest.353773c855ef99e641e2bf5bf09d4930.js": "/haui-app/precache-manifest.353773c855ef99e641e2bf5bf09d4930.js",
+    "service-worker.js": "/haui-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/haui-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8e2baab7.chunk.css.map": "/haui-app/static/css/main.8e2baab7.chunk.css.map",
+    "static/js/2.8230b3d2.chunk.js.LICENSE.txt": "/haui-app/static/js/2.8230b3d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.434ee799.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8230b3d2.chunk.js",
+    "static/css/main.8e2baab7.chunk.css",
+    "static/js/main.02d34f74.chunk.js"
+  ]
+}
